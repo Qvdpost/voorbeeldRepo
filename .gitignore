@@ -1,6 +1,7 @@
 # negeer alle python gecompileerde bestanden van NumPy
 *.pyc
 __pycache__/*
+__pycache__/
 
 # negeer de bestanden die mijn text-editor aanmaakt
 .idea/*
